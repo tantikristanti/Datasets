@@ -23,10 +23,13 @@ Explore the datasets below by navigating to their dedicated folders:
 
 1. [NYC Taxi Dataset](/nyc-taxi-dataset)
 2. [AI Interview Dataset](/ai-interview-dataset)
+3. [Paris Tourism Dataset](/paris-tourism-dataset)
 
 ---
 
 ## References
 
 1. [NYC Taxi Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
-2. [AI Interview Dataset](https://github.com/alexeygrigorev/data-science-interviews/)
+2. [AI Interview Dataset](https://github.com/alexeygrigorev/data-science-interviews/).
+2. [Paris Tourism Dataset](https://data.mendeley.com/datasets/vh4g4g2322/1).
+
