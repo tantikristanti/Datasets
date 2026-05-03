@@ -3,8 +3,8 @@
 NYC taxi dataset is a comprehensive dataset containing millions of rows of taxi trip information, published monthly by the New York City Taxi and Limousine Commission (TLC).
 
 **Releases**
-* Yellow trip data (2024-2025): https://github.com/tantikristanti/Datasets/releases/tag/v1.0.0-yellow-alpha
-* Green trip data (2024-2025): https://github.com/tantikristanti/Datasets/releases/tag/v1.0.0-green-alpha
+* Yellow trip data (2024-2025): https://github.com/tantikristanti/Datasets/releases/tag/taxi-yellow
+* Green trip data (2024-2025): https://github.com/tantikristanti/Datasets/releases/tag/taxi-green
 * Taxi zones: https://github.com/tantikristanti/Datasets/releases/tag/taxi-zones
 
 **Dataset Contents**
